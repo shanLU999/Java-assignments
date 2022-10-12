@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=VehicleHireApp
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ main\ method\r\n
+comment2.params=
+comment2.target=void\ displayMenu()
+comment2.text=\r\n\ \ method\ for\ displaying\ a\ menu\r\n
+comment3.params=vehicles\ typeCode
+comment3.target=void\ showVehicle(java.util.ArrayList,\ java.lang.String)
+comment3.text=\r\n\ \ method\ for\ showing\ the\ list\ of\ vehicle\ with\ the\ same\ vehicle\ type\r\n
+numComments=4

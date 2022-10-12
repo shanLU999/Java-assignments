@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MainWindow
+comment0.text=\ Purpose\:Project\ 2\ \u2013\ Parking\ Slot\ System\:\ \r\n\ The\ main\ window.\r\n\ @author\ \ \ \ \ \ SHAN\ LU\ <103528518>\ \r\n\ @version\ \ \ \ \ JDK\ 1.8\ \ \r\n\ @date\ \ \ \ \ \ \ \ Created\ on\ 19\ October\ 2021\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n
+comment1.params=
+comment1.target=MainWindow()
+comment1.text=\r\n\ Design\ the\ main\ window\r\n\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ Event\ listeners\ method\ for\ buttons\ of\:\r\n\ exist,\ addSlot,\ listSlot,\ parkCar,\ removeCar,\ findCar\r\n\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

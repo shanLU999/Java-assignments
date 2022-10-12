@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CarPark
+comment0.text=\ Purpose\:Project\ 1\ \u2013\ Parking\ Spot\ System\:\ CarPark\:\ Maintain\ a\ list\ of\ available\ parking\ slots.\r\n\ @author\ \ \ \ \ \ SHAN\ LU\ <103528518>\ \r\n\ @version\ \ \ \ \ JDK\ 1.8\ \ \r\n\ @date\ \ \ \ \ \ \ \ Created\ on\ 11\ September\ 2021\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n
+comment1.params=
+comment1.target=void\ addParkingSlot()
+comment1.text=\r\n\ Add\ parking\ slot\ method\ to\ add\ slot\ into\ system.\r\n
+comment2.params=
+comment2.target=void\ removeSlot()
+comment2.text=\r\n\ remove\ parking\ slot\ method\ to\ remove\ slot\ is\ the\ slot\ exist\ and\ is\ not\ occupied.\r\n
+comment3.params=
+comment3.target=void\ showList()
+comment3.text=\r\n\ showList()method\ to\ list\ out\ all\ the\ slots\ int\ the\ system\r\n
+comment4.params=
+comment4.target=void\ parkNewCar()
+comment4.text=\r\n\ Park\ a\ car\ into\ a\ slot\:A\ parking\ slot\ cannot\ be\ deleted\ if\ there\ is\ a\ car\ being\ parked\ there\r\nVisitor\ car\ can\ only\ be\ parked\ in\ a\ visitor\ slot\ and\ staff\ car\ can\ only\ be\ parked\ in\ a\ staff\ slot\r\n
+comment5.params=
+comment5.target=void\ findCar()
+comment5.text=\r\n\ Find\ the\ owner\ and\ slot\ ID\ of\ a\ car\ which\ has\ been\ parked\r\n\r\n
+comment6.params=
+comment6.target=void\ removeCar()
+comment6.text=\r\n\ Remove\ car\ from\ slot.\r\n\r\n
+comment7.params=slotId
+comment7.target=boolean\ haslot(java.lang.String)
+comment7.text=\r\n\ Return\ a\ boolean\ value\ is\ the\ slot\ exist\ in\ the\ system\r\n\r\n
+numComments=8

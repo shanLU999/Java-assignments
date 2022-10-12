@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\ Purpose\:Project\ 2\ \u2013\ Parking\ Spot\ System\:\ Car\ class\:\ set\ up\ car\ variables\r\n\ @author\ \ \ \ \ \ SHAN\ LU\ <103528518>\ \r\n\ @version\ \ \ \ \ JDK\ 1.8\ \ \r\n\ @date\ \ \ \ \ \ \ \ Created\ on\ 11\ September\ 2021\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n
+comment1.params=newregistrationNumber\ newOwner
+comment1.target=Car(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Initialize\ instance\ variables\r\n\r\n
+comment2.params=registrationNumber
+comment2.target=void\ setRegistrationNumber(java.lang.String)
+comment2.text=\r\n\ set\ registration\ number\r\n\r\n
+comment3.params=
+comment3.target=java.lang.String\ getRegistrationNumber()
+comment3.text=\r\n\ return\ registration\ number\r\n\r\n
+comment4.params=owner
+comment4.target=void\ setOwner(java.lang.String)
+comment4.text=\r\n\ set\ owner\r\n\r\n
+comment5.params=
+comment5.target=java.lang.String\ getOwner()
+comment5.text=\r\n\ return\ owner\r\n\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ display\ registration\ number\ in\ slot\r\n\r\n
+numComments=7

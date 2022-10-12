@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Application
+comment0.text=\ Purpose\:Project\ 1\ \u2013\ Parking\ Spot\ System\:\ Application\ class\ including\ the\ main()\ method\ and\ handling\ all\ inputs\ and\ outputs.\r\n\ @author\ \ \ \ \ \ SHAN\ LU\ <103528518>\ \r\n\ @version\ \ \ \ \ JDK\ 1.8\ \ \r\n\ @date\ \ \ \ \ \ \ \ Created\ on\ 11\ September\ 2021\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n
+comment1.params=
+comment1.target=void\ main()
+comment1.text=\r\n\ Call\ displayMenu\ method\ and\ make\ option\r\n\r\n
+comment2.params=
+comment2.target=void\ displayMenu()
+comment2.text=\r\n\ A\ method\ to\ out\ print\ the\ menu\r\n\r\n
+numComments=3
